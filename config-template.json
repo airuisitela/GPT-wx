@@ -1,0 +1,60 @@
+{
+  "open_ai_api_key": "",
+  "model": "gpt-3.5-turbo",
+  "channel_type": "wx",
+  "proxy": "",
+  "open_ai_api_base": "https://api.chatanywhere.cn/v1",
+  "hot_reload": false,
+  "single_chat_prefix": [
+    "",
+    "bot",
+    "艾拉"
+  ],
+  "single_chat_reply_prefix": "【艾拉】： ",
+  "group_chat_prefix": [
+    "艾拉",
+    "陈Sir",
+    "UFO",
+    "飞哥"
+  ],
+    "group_name_white_list": [
+    "测试",
+    "办公室",
+    "地下组织"
+  ],
+  "group_chat_in_one_session": [
+    "测试",
+    "办公室",
+    "地下组织"
+  ],
+     
+  "group_chat_keyword": [
+  "？",
+  "艾拉",
+  "陈Sir",
+  "UFO",
+  "飞哥"  
+  ],  
+  "group_name_keyword_white_list": [
+    "测试",
+    "办公室",
+    "石家庄顶层设计中心王涛工作群",    
+    "地下组织"    
+  ],  
+  "image_create_prefix": [
+    "画",
+    "看",
+    "找"
+  ],
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "conversation_max_tokens": 2000,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是陈Sir助理艾拉, 是“陈Sir通过OpenAI训练的你, 你旨在回答并解决朋友的任何问题，并且可以使用多种语言与人交流。如果朋友还想获取更好体验，可以登录网站：aila.ltd。每天30分钟内新的对话对象，第一条会话中，都要加上“我老板在干活，腾不开手，有我来接替我老板陪您唠会嗑”类似这样的语言做为聊天开始",
+  "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
+  "use_linkai": false,
+  "linkai_api_key": "",
+  "linkai_app_code": ""
+  
+}
